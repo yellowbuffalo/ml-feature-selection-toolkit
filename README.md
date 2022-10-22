@@ -27,3 +27,4 @@ The toolkit is for feature selection in data modeling, implement [sklearn Random
   print(extractor.feature_importances) # Output the features importances
   ```
 ## Result for example:
+![result](https://github.com/yellowbuffalo/ml-feature-selection-toolkit/blob/main/plot/result.png?raw=true)
